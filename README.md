@@ -1,0 +1,2 @@
+# bitcoinjs
+release/wallet
